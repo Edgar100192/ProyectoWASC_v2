@@ -1,0 +1,52 @@
+D:\ProyectoDSD\WCFMedical\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+D:\ProyectoDSD\WCFMedical\WCFServices\bin\WCFServices.dll.config
+D:\ProyectoDSD\WCFMedical\WCFServices\bin\WCFServices.dll
+D:\ProyectoDSD\WCFMedical\WCFServices\bin\WCFServices.pdb
+D:\ProyectoDSD\WCFMedical\WCFServices\obj\Debug\WCFServices.dll
+D:\ProyectoDSD\WCFMedical\WCFServices\obj\Debug\WCFServices.pdb
+<<<<<<< HEAD
+=======
+D:\ProyectoDSD\WCFMedical\WCFServices\obj\Debug\WCFServices.csprojAssemblyReference.cache
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFServices\bin\WCFServices.dll.config
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFServices\bin\WCFServices.dll
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFServices\bin\WCFServices.pdb
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFServices\obj\Debug\WCFServices.csprojAssemblyReference.cache
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFServices\obj\Debug\WCFServices.dll
+C:\Users\ZOILA\Desktop\ProyectoDist\ProyectoDSD\WCFMedical\WCFServices\obj\Debug\WCFServices.pdb
+>>>>>>> 55085538583927c3a50e7d7e7dafb7237feb9261
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFServices\bin\WCFServices.dll.config
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFServices\bin\WCFServices.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFServices\bin\WCFServices.pdb
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFServices\obj\Debug\WCFServices.csprojAssemblyReference.cache
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFServices\obj\Debug\WCFServices.dll
+D:\DESARROLLO APP\ProyectoDSD\WCFMedical\WCFServices\obj\Debug\WCFServices.pdb
+D:\WCFMedical\WCFServices\bin\WCFServices.dll.config
+D:\WCFMedical\WCFServices\bin\WCFServices.dll
+D:\WCFMedical\WCFServices\bin\WCFServices.pdb
+D:\WCFMedical\WCFServices\obj\Debug\WCFServices.csprojAssemblyReference.cache
+D:\WCFMedical\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+D:\WCFMedical\WCFServices\obj\Debug\WCFServices.dll
+D:\WCFMedical\WCFServices\obj\Debug\WCFServices.pdb
+C:\WCFMedical_v2\WCFServices\bin\WCFServices.dll.config
+C:\WCFMedical_v2\WCFServices\bin\WCFServices.dll
+C:\WCFMedical_v2\WCFServices\bin\WCFServices.pdb
+C:\WCFMedical_v2\WCFServices\obj\Debug\WCFServices.csprojAssemblyReference.cache
+C:\WCFMedical_v2\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+C:\WCFMedical_v2\WCFServices\obj\Debug\WCFServices.dll
+C:\WCFMedical_v2\WCFServices\obj\Debug\WCFServices.pdb
+D:\WCFMedical_v2\WCFServices\bin\WCFServices.dll.config
+D:\WCFMedical_v2\WCFServices\bin\WCFServices.dll
+D:\WCFMedical_v2\WCFServices\bin\WCFServices.pdb
+D:\WCFMedical_v2\WCFServices\obj\Debug\WCFServices.csprojAssemblyReference.cache
+D:\WCFMedical_v2\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+D:\WCFMedical_v2\WCFServices\obj\Debug\WCFServices.dll
+D:\WCFMedical_v2\WCFServices\obj\Debug\WCFServices.pdb
+D:\DESARROLLO APP\ProyectoWASC_v2\WCFMedical_v3\WCFServices\bin\WCFServices.dll.config
+D:\DESARROLLO APP\ProyectoWASC_v2\WCFMedical_v3\WCFServices\bin\WCFServices.dll
+D:\DESARROLLO APP\ProyectoWASC_v2\WCFMedical_v3\WCFServices\bin\WCFServices.pdb
+D:\DESARROLLO APP\ProyectoWASC_v2\WCFMedical_v3\WCFServices\obj\Debug\WCFServices.csprojAssemblyReference.cache
+D:\DESARROLLO APP\ProyectoWASC_v2\WCFMedical_v3\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+D:\DESARROLLO APP\ProyectoWASC_v2\WCFMedical_v3\WCFServices\obj\Debug\WCFServices.dll
+D:\DESARROLLO APP\ProyectoWASC_v2\WCFMedical_v3\WCFServices\obj\Debug\WCFServices.pdb
